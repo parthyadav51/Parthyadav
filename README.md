@@ -6,6 +6,8 @@
 
 Welcome to my GitHub profile! I specialize in cybersecurity and love exploring new technologies. Here’s a snapshot of what I do and the tools I’m skilled in.
 
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-github&show_icons=true&theme=radical)
+
 ## 🛠️ Skills
 
 ### Programming & Scripting
