@@ -8,10 +8,6 @@ Welcome to my GitHub profile! I specialize in cybersecurity and love exploring n
 
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthyadav51&show_icons=true&theme=radical)
 
-## 🛠️ Skills
-
-### Programming & Scripting
-- **Python**, **BASH**, **C**, **SQL**, **JavaScript**, **Rust**
 
 ## 🎯 Cool Stuff I’ve Worked On
 
@@ -27,11 +23,6 @@ Welcome to my GitHub profile! I specialize in cybersecurity and love exploring n
 - **Tech**: OPNsense, Windows Server, Ubuntu Server, VirtualBox
 - **Summary**: Developed a comprehensive virtual lab environment focused on ethical hacking and penetration testing.
 
-## 🏆 Achievements
-- **Pentathon 2024**: All India Rank 37
-- **Wayne State University CTF**: Ranked 10th globally
-- **Bitguard Cybersecurity Hackathon**: 7th position
-- **TryHackMe**: Top 3% globally, Top 50 in India (May 2024)
 
 ## 📫 Let’s Connect!
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/parthyadav8/) or [email](mailto:ayushyadav791@gmail.com). Always excited to discuss cybersecurity, tech, and potential collaborations!
