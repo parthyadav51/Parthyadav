@@ -6,6 +6,9 @@
 
 Welcome to my GitHub profile! I am Parth Yadav, a passionate Cybersecurity Specialist with a strong background in penetration testing, vulnerability assessment, and network security. I am constantly honing my skills through practical experience, academic projects, and competitive challenges. Below, you'll find a collection of my key projects, tools, and achievements.
 
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-github&show_icons=true&theme=radical)
+
+
 ## 🛠️ Skills
 
 ### Programming Languages
