@@ -1,4 +1,4 @@
-# 👋 Parth Yadav - Cybersecurity Specialist & Developer
+# 👋 Parth Yadav - Cybersecurity, Penetration Tester, Bug Bounty
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/parthyadav8/)](https://www.linkedin.com/in/parthyadav8/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/parthyadav51)](https://github.com/parthyadav51)
@@ -6,24 +6,12 @@
 
 Welcome to my GitHub profile! I specialize in cybersecurity and love exploring new technologies. Here’s a snapshot of what I do and the tools I’m skilled in.
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-github&show_icons=true&theme=radical)
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthyadav51&show_icons=true&theme=radical)
 
 ## 🛠️ Skills
 
 ### Programming & Scripting
 - **Python**, **BASH**, **C**, **SQL**, **JavaScript**, **Rust**
-
-### Cybersecurity Tools & Techniques
-- **Penetration Testing**: Metasploit, Burp Suite, Nmap, SQLMap, Hydra, John the Ripper
-- **Network Security**: Wireshark, OPNsense, OSINT Techniques
-- **Web Security**: OWASP ZAP, Nikto, Shodan
-- **Vulnerability Management**: Nessus, Mimikatz, Gobuster
-
-### Platforms & Frameworks
-- **Linux Server Administration**, **AWS**
-- **MITRE ATT&CK**, **OWASP**
-- **SIEM Tools**: Splunk, Chronicle
-- **CMS Management**: WordPress, Drupal, Joomla
 
 ## 🎯 Cool Stuff I’ve Worked On
 
